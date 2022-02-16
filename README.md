@@ -8,5 +8,5 @@ The sample demonstrates how to use [Dynamsoft Camera Enhancer](https://www.dynam
 https://yushulx.github.io/web-browser-camera-access/
 
 ## API Reference
-https://www.dynamsoft.com/label-recognition/programming/javascript/api-reference/?ver=latest
+https://www.dynamsoft.com/camera-enhancer/docs/programming/javascript/api-reference/?ver=latest
 
