@@ -10,3 +10,5 @@ https://yushulx.github.io/web-browser-camera-access/
 ## API Reference
 https://www.dynamsoft.com/camera-enhancer/docs/programming/javascript/api-reference/?ver=latest
 
+## Blog
+[How to Implement Camera Access from Web Browsers in 5 Minutes](https://www.dynamsoft.com/codepool/web-browser-javascript-camera-access.html)
